@@ -1,5 +1,3 @@
-# resumo-do-lab
-
 # Computação em Nuvem
 ## _Introdução_
 
@@ -29,3 +27,26 @@
 - Melhor previsão de custos
 - São fornecidos preços para recursos e serviços individuais
 - A cobrança é feita com base no seu consumo real (use a [calculadora](https://azure.microsoft.com/pt-br/pricing/calculator/) de preços)
+
+## _Portal Microsoft Azure_
+Link para acesso: [https://portal.azure.com](https://portal.azure.com)
+
+Navegação:
+- Todos os serviços
+    - Categorias
+        - Computação:
+            - Área de trabalho Virtual do Azure
+            - Chaves SSH
+            - Conjuntos de disponibilidade
+            - Contas de laboratório
+            - Imagens
+            - Máquinas Virtuais, Discos, PaaS 
+            - etc
+        - Rede:
+            - Bastions: Rede segura para fazer acesso às nossas máquinas (Jump Server: Servidor ponte para conectar com outras máquinas).
+            - Endereços IPs
+            - DNS
+            - Firewall
+            - etc
+        - Armazenamento: 
+            - Discos
